@@ -2,7 +2,7 @@
      <img src="readmeimg.png" width="500" alt="FileFinder logo">
    </p>
 
-# Simple Cleamer
+# Simple Cleaner
 Una app de limpieza de archivos inutules o de alto tamaño. 
 
 
