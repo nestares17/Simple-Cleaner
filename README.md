@@ -1,5 +1,5 @@
    <p align="center">
-     <img src="wizard_image.png" width="900" alt="FileFinder logo">
+     <img src="readmeimg.png" width="900" alt="FileFinder logo">
    </p>
 
 # Simple Cleamer
